@@ -22,8 +22,8 @@
 │  Status : PASS                  │  Status : PASS                  │
 │  Wall   : 12.3s                 │  Wall   : 0.1s                  │
 │  Ticks  : 4096                  │  Latency: 0.312 µs              │
-│  SimTime: 38.4 ms               │  Output : 1.0, 2.0, 3.0, 4.0   │
-│  Output : 1.0, 2.0, 3.0, 4.0   │                                 │
+│  SimTime: 38.4 ms               │  Output : 1.0, 2.0, 3.0, 4.0    │
+│  Output : 1.0, 2.0, 3.0, 4.0    │                                 │
 └─────────────────────────────────┴─────────────────────────────────┘
 ── Comparison ──
   NPU ticks    : 4096
